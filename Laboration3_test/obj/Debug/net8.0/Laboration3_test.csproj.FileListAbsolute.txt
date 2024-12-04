@@ -1,0 +1,15 @@
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/bin/Debug/net8.0/Laboration3_test
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/bin/Debug/net8.0/Laboration3_test.deps.json
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/bin/Debug/net8.0/Laboration3_test.runtimeconfig.json
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/bin/Debug/net8.0/Laboration3_test.dll
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/bin/Debug/net8.0/Laboration3_test.pdb
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/Laboration3_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/Laboration3_test.AssemblyInfoInputs.cache
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/Laboration3_test.AssemblyInfo.cs
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/Laboration3_test.csproj.CoreCompileInputs.cache
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/Laboration3_test.sourcelink.json
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/Laboration3_test.dll
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/refint/Laboration3_test.dll
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/Laboration3_test.pdb
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/Laboration3_test.genruntimeconfig.cache
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/ref/Laboration3_test.dll

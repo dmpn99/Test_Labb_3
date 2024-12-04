@@ -40,6 +40,6 @@ public class Book
     // Metod för att hämta en sträng med bokdata
     public string GetBookData()
     {
-        return $"Title: {title} /n och så fyller ni på med övriga data här";
+        return $"Title: {title} \n Pages: {numOfPages} \n Författare: {author} ISBN: {isbn}";
     }
 }
