@@ -1,39 +1,32 @@
 namespace ConsoleApp10;
 
-public class Book
+public class TemperatureCalculator
 {
     // Privata fält
-    private string title;
-    private int numOfPages;
-    private string author;
-    private string isbn;
-    
+    private string datum;
+	private double temp;
     
     
     // Konstruktor
-    public Book(string title, int numOfPages, string author, string isbn) // <-- default konstruktorn. Vi behöver ändra för att sätta värden
+    public Book(string datum) // <-- default konstruktorn. Vi behöver ändra för att sätta värden
     {
-        this.title = title;
+        this.datum = title;
         // Fyll på med parametrarna
         // i klassdiagrammet (UML)
-        this.numOfPages = numOfPages;
-        this.author = author;
-        this.isbn = isbn;
 
-        GenerateISBN();
-        GetBookData();
+        FindMaxTemperature();
         
-
     } 
 
     
-    // Metod för att skapa upp ISBN
-    private void GenerateISBN()
+    // Metod för att hitta max temperaturen
+    private void FindMaxTemperature()
     {
         Random random = new Random();
-        string isbnTemp = random.Next(100000000, 999999999).ToString();
-        isbnTemp += $"-{random.Next(1, 9).ToString()}";
-        this.isbn = isbnTemp;
+        string isbnTemp = random.Next(-10, 30).ToString();
+        maxTemp += $"-{random.Next(1, 9).ToString()}";
+        this.temp = maxTemp;
+		return $" Max temperaturen: {maxTemp);
         
     }
 
