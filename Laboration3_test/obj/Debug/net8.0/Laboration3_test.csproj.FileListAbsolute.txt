@@ -13,3 +13,11 @@
 /Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/Laboration3_test.pdb
 /Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/Laboration3_test.genruntimeconfig.cache
 /Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Test_Labb_3/Laboration3_test/obj/Debug/net8.0/ref/Laboration3_test.dll
+C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 3\ÖvningLabb3\Warmup_Labb_3\Laboration3_test\obj\Debug\net8.0\Laboration3_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 3\ÖvningLabb3\Warmup_Labb_3\Laboration3_test\obj\Debug\net8.0\Laboration3_test.AssemblyInfoInputs.cache
+C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 3\ÖvningLabb3\Warmup_Labb_3\Laboration3_test\obj\Debug\net8.0\Laboration3_test.AssemblyInfo.cs
+C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 3\ÖvningLabb3\Warmup_Labb_3\Laboration3_test\obj\Debug\net8.0\Laboration3_test.csproj.CoreCompileInputs.cache
+C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 3\ÖvningLabb3\Warmup_Labb_3\Laboration3_test\obj\Debug\net8.0\Laboration3_test.sourcelink.json
+C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 3\ÖvningLabb3\Warmup_Labb_3\Laboration3_test\obj\Debug\net8.0\Laboration3_test.dll
+C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 3\ÖvningLabb3\Warmup_Labb_3\Laboration3_test\obj\Debug\net8.0\refint\Laboration3_test.dll
+C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 3\ÖvningLabb3\Warmup_Labb_3\Laboration3_test\obj\Debug\net8.0\Laboration3_test.pdb
